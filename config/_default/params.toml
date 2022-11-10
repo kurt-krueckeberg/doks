@@ -4,20 +4,20 @@
 title = "Krückeberg Genealogical Research"
 titleAddition = "A collabrative effort"
 titleSeparator = "-"
-description = "Finding and documenting the ancestors and descendent of Carl Friedrich Gottlieb Krückeberg."
+description = "Finding and accuratively documenting the ancestors and descendents of Carl Friedrich Gottlieb Krückeberg, born 1807, BerenbuschSchaumburg-Lippe."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["petzen_kirche_thb.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+#twitterSite = "@getdoks"
+#twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -28,10 +28,10 @@ schemaAuthorTwitter = "https://twitter.com/henkverlinde"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaLogo = "petzen-logo.png"
+schemaLogoWidth = 539
+schemaLogoHeight = 539
+schemaImage = "petzen_kirche_thb.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/getdoks"
@@ -68,7 +68,7 @@ fillImage = "1270x740 Center"      # normalize image size
 footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2020-2021 Kurt Krueckeberg"
 
 # Alert
 alert = false
@@ -80,7 +80,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/kurt-krueckeberg/doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false

@@ -1,0 +1,9 @@
+# My Doks Notes 
+
+## Basic Howtos 
+
+To start [attributes]
+====
+the hugo server
+====
+: npm run start 
